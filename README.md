@@ -1,0 +1,2 @@
+# DevBlackBoard
+Created an extremely lightweight Blackboard/Drawing app for Windows using Visual C#. You can use this application to draw, take notes, teach online classes and more! This is probably not industry standard software but it can get the job done and is very minimalist in design. You can save your drawings in jpeg image format or bitmap depending on your needs. Enjoy this app and do give me feedback! 
